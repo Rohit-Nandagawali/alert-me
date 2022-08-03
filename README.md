@@ -5,7 +5,7 @@ Platform for news sharing
 ## Libraries used
  - Bootstrap 5 ( for frontend development)- [https://getbootstrap.com/docs/5.0/getting-started/introduction/](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
  - PHPMailer ( for sending mails ) - [https://github.com/PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
- - For animation - [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
+ 
  
 ## Change login credensial in /assets/php/send_code.php
 
