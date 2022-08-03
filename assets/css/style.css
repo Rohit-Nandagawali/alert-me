@@ -1,0 +1,79 @@
+/* changing scrollbar */
+
+::-webkit-scrollbar {
+    width: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: lightgrey;
+    border-radius: .25rem;
+}
+
+
+/* general styles */
+
+.user:hover {
+    background-color: rgb(235, 229, 229);
+}
+
+.bg-gray-icon {
+    background-color: rgb(235, 229, 229);
+}
+
+.bg-gray-icon:hover {
+    background-color: #e7f3ff;
+    color: #1876f2;
+}
+
+.bg-gray {
+    background-color: #f0f2f5;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+
+/* for active icon */
+
+.active-icon {
+    background-color: #e7f3ff;
+    color: #1876f2;
+    border: solid #1876f2 1px;
+}
+
+
+/*  */
+
+.rounded-corner {
+    border-radius: 20px;
+}
+
+.dropdown-item:active {
+    background-color: white !important;
+}
+
+
+/* comment post */
+
+.post__comment .accordion-button:after {
+    margin-left: 0 !important;
+    display: none !important;
+}
+
+.post__comment .accordion-button:hover {
+    background: transparent !important;
+    border-color: transparent !important;
+}
+
+.post__comment .accordion-button:not(.collapsed) {
+    background: transparent !important;
+    box-shadow: none;
+}
+
+
+/* this make file input hidden */
+
+#file_upload {
+    display: none;
+}
