@@ -7,7 +7,7 @@ Platform for news sharing
  - PHPMailer ( for sending mails ) - [https://github.com/PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
  
  
-## Change login credensial in /assets/php/send_code.php
+## Change login credentials in /assets/php/send_code.php
 
 **Inside**
   - Do this setting to your gmail account before using it into your project
@@ -37,7 +37,7 @@ Platform for news sharing
 > `password` for Admin - `12345`
 
 - How to change username and password for admin 
-1. Go to `phpmyadmin` and `cpe` and go to `admins` table and change the credensials. Password for admin is not encrypted.
+1. Go to `phpmyadmin` and `cpe` and go to `admins` table and change the credentials. Password for admin is not encrypted.
 
 
 ## How to run this app
