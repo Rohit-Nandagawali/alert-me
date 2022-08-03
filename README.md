@@ -1,6 +1,6 @@
 
 # AlertMe - Diploma final year project
-Plateform for news sharing
+Platform for news sharing
 
 ## Libraries used
  - Bootstrap 5 ( for frontend development)- [https://getbootstrap.com/docs/5.0/getting-started/introduction/](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
